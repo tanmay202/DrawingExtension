@@ -1,4 +1,5 @@
-# Page Annotation Layer
+# WebPage drawer
+Vibecoded using Codex 5.4 high 
 
 A Chromium Manifest V3 extension that injects a full-page drawing and annotation layer into any website. It is built with React, TypeScript, and Konva, and stores every annotation in document-space coordinates so drawings stay aligned while the page scrolls, resizes, or changes zoom level.
 
@@ -62,6 +63,7 @@ npm run build
 ## Shortcuts
 
 - `Ctrl+P`: toggle annotation mode
+- `Ctrl+M`: Minimise
 - `B`: brush
 - `E`: eraser
 - `R`: rectangle
